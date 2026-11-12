@@ -1,0 +1,6 @@
+{
+  "name": "El Gran Examen de Lengua y Literatura",
+  "description": "Examen interactivo escolar de Lengua Castellana y Literatura para 7.º curso con 150 preguntas, traducciones al armenio y explicaciones detalladas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
